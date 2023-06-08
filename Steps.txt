@@ -1,0 +1,17 @@
+git init ----> Initialising git repository
+
+git status---> check for files (red color font)
+
+git add filename.extension ----> add files to commit
+
+git status---> check for files that are commited (green colot font)
+
+git commit -m "message" ----> files will be added to commit
+
+git status--->  shows the message that nothing to commit
+
+git remote add origin "url"----> 
+
+git push -u origin main---> ask for authentication of git hub
+
+
